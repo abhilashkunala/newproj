@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 aadab
+=======
+hello
+>>>>>>> 4092b38d5d3a8f3e09d186d1ebd8328bc5520085
